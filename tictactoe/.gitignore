@@ -8,6 +8,7 @@ tictactoe.dll
 tictactoe.a
 tictactoe.lib
 tictactoe-test-*
+tictactoe
 *.exe
 *.o
 *.obj
