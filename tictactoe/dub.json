@@ -1,0 +1,9 @@
+{
+	"name": "tictactoed",
+	"authors": [
+		"The Aalborg Meetup D team"
+	],
+	"description": "A small Tic Tac Toe game in D",
+	"copyright": "Copyright © 2019, The Aalborg Meetup D team",
+	"license": "MIT"
+}

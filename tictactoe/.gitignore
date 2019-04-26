@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+tictactoe.so
+tictactoe.dylib
+tictactoe.dll
+tictactoe.a
+tictactoe.lib
+tictactoe-test-*
+*.exe
+*.o
+*.obj
+*.lst
