@@ -11,3 +11,8 @@ The acronym SGAD stands for **Small Games for Algorithms and Data Structure** an
 | tictactoe   | array        |
 
 # Algorithms to Games
+
+| Algorithms  | Games        |
+| :---------- | :----------- |
+| array      | tictactoe    |
+
